@@ -38,3 +38,7 @@
 "Choose a GAMEDATA file of PS3 Edition data to start conversion" = "PS3版のGAMEDATAファイルを選択";
 "PS3 to Java" = "PS3版 から Java版に";
 "PS3 to Bedrock" = "PS3版 から 統合版に";
+"Simple" = "シンプル";
+"Advanced" = "詳細";
+"Advanced mode includes legacy console conversion paths and expert workflows." = "詳細モードでは、旧世代コンソール向け変換と上級者向けワークフローを利用できます。";
+"Simple mode shows the most common conversion paths." = "シンプルモードでは、よく使う変換のみ表示します。";
